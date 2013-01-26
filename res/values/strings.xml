@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, LanguageAct!</string>
+    <string name="app_name">LanguageApp</string>
+	<string-array name="colors">
+	    <item>red</item>
+	    <item>orange</item>
+	    <item>yellow</item>
+	    <item>green</item>
+	    <item>blue</item>
+	    <item>purple</item>
+	</string-array>
+</resources>
